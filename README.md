@@ -11,5 +11,6 @@ Hackolade Studio trial license key BJRK0-N0300-GH144-182BM-2P8QF-1AH4R-4S28D-IBC
 6) Click the Validate button
 
 Getting Started videos are availble on our <a href="https://community.hackolade.com/slides/hackolade-studio-tutorial-0-vision-getting-started-6" target="_blank" rel="noopener noreferrer">eLearning platform</a>  (Use Ctrl/Cmd+click to open in a new tab)
+
 This browser-based data modeling solution is highly secure.  See more information about the security-first architecture in our <a href="https://hackolade.com/help/Security-firstbrowserdeployment.html" target="_blank" rel="noopener noreferrer">online documentation</a>  (Use Ctrl/Cmd+click to open in a new tab)
 
